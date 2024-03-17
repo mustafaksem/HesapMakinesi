@@ -34,3 +34,12 @@ Bu, çok amaçlı bir Windows Form uygulamasıdır. İçinde şu özellikleri ba
 
 - İki tarih arasındaki farkı hesaplamak için kullanılır.
 - Gün, saat, dakika cinsinden farkı gösterir.
+  
+### Not alma uygulaması 
+Bu uygulama basit bir not alım ve yönetim uygulamasıdır. İşlevleri şu şekildedir:
+1.	Yeni Not Ekleme (btnNew_Click): Kullanıcı bu butona tıklayarak yeni bir not ekleyebilir. Bu durumda "Başlık" ve "Mesajlar" alanları temizlenir.
+2.	Notu Kaydetme (btnSave_Click): Kullanıcı "Başlık" ve "Mesajlar" alanlarına metin girdikten sonra bu butona tıklayarak notu kaydedebilir. Eğer başlık veya mesaj alanları boşsa bir uyarı mesajı gösterilir.
+3.	Notları Görüntüleme (btnRead_Click): Kullanıcı DataGridView'de bir nota tıklayarak bu butona tıklayarak seçili notu görüntüleyebilir. Eğer not seçilmemişse bir uyarı mesajı gösterilir.
+4.	Notu Silme (btnDelete_Click): Kullanıcı DataGridView'de bir nota tıklayarak bu butona tıklayarak seçili notu silebilir. Eğer not seçilmemişse bir uyarı mesajı gösterilir.
+Notlar, DataTable kullanılarak saklanır ve DataGridView üzerinden kullanıcıya gösterilir. Bu şekilde, kullanıcı notları ekleyebilir, görüntüleyebilir ve silebilir. Eğer başlık veya mesaj alanları boşsa veya not seçilmemişse uygun uyarı mesajları gösterilir.
+
