@@ -1,0 +1,10 @@
+C:\Users\mustafa\Desktop\projeler\NoteTaking\bin\Debug\NoteTaking.exe.config
+C:\Users\mustafa\Desktop\projeler\NoteTaking\bin\Debug\NoteTaking.exe
+C:\Users\mustafa\Desktop\projeler\NoteTaking\bin\Debug\NoteTaking.pdb
+C:\Users\mustafa\Desktop\projeler\NoteTaking\obj\Debug\NoteTaking.csproj.AssemblyReference.cache
+C:\Users\mustafa\Desktop\projeler\NoteTaking\obj\Debug\NoteTaking.Form1.resources
+C:\Users\mustafa\Desktop\projeler\NoteTaking\obj\Debug\NoteTaking.Properties.Resources.resources
+C:\Users\mustafa\Desktop\projeler\NoteTaking\obj\Debug\NoteTaking.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\projeler\NoteTaking\obj\Debug\NoteTaking.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\projeler\NoteTaking\obj\Debug\NoteTaking.exe
+C:\Users\mustafa\Desktop\projeler\NoteTaking\obj\Debug\NoteTaking.pdb
