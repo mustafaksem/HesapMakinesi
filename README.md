@@ -1,11 +1,11 @@
-# Awesome Calculator App
-
+# Awesome Calculator App and Note Taking App
 Bu, çok amaçlı bir Windows Form uygulamasıdır. İçinde şu özellikleri barındırır:
 
 - Basit Hesap Makinesi
 - Uzunluk Dönüştürücü
 - Veri Hesaplayıcı
 - Tarih Hesaplayıcı
+- Not alma uygulaması
 
 ## Ekran Görüntüleri
 <img src="HesapMakinesi/image/HesapMakinesi.PNG" width = "250" height="350"> <img src="HesapMakinesi/image/TarihHesaplayici.PNG" width = "250" height="350">
